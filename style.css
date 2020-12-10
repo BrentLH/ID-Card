@@ -1,0 +1,37 @@
+body {
+    background-color: #84cee0;
+}
+
+img {
+
+width: 90px;
+
+height: 90px;
+
+float: left;
+
+}
+
+#idCard {
+
+border: 5px solid black;
+border-radius: 25px;
+height: 14em;
+margin: auto;
+width: 25em;
+background-color: #f3b1b1;
+font-family: Arial, Helvetica, sans-serif;
+}
+ #postFullName {
+      margin-left: 140px;
+      font-size: 30px;
+        }
+  #postAge {
+      margin-left: 10px
+    }
+  #postPhoneNumber {
+      margin-left: 10px
+    }
+  #postAddress {
+      margin-left: 10px
+    }
